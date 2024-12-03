@@ -1,0 +1,86 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+}
+
+.header {
+    background-color: #2c27d5;;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 5px 5px 7px black;
+    font-size: 19px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+.container {
+    padding: 20px;
+    margin: 0;
+    border: 3px solid #005a43;
+}
+
+.photo {
+    text-align: right ;
+    margin-bottom: 20px;
+}
+
+.photo img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid #333;
+}
+
+h2 {
+    color: #333;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 5px;
+}
+
+ul {
+    list-style: none;
+    padding: 10px;
+}
+
+.skills ul {
+    list-style-type: square;
+    padding: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+.text {
+    color: #333;
+}
+
+.download {
+    text-align: center;
+    background-color: #005a01;
+    box-shadow: 5px 5px 7px black;
+}
+
+.button {
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    background-color: #333;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 10px auto;
+}
+
+.button:hover {
+    box-shadow: 5px 5px 7px black;
+}
